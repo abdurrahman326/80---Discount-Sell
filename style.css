@@ -238,6 +238,9 @@ html{
     margin-top: 120px;
     color: blue;
 }
+.icon a{
+    color: blue;
+}
 .icon h2{
     background-color: darkkhaki;
     display: inline-block;
@@ -253,6 +256,7 @@ html{
     font-size: 160px;
     padding: 0px 20px;
     cursor: pointer;
+    color: blue;
 }
 /* =====================Footer Section================= */
 .footer{
